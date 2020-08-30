@@ -5,4 +5,5 @@
 [![Coverage](https://codecov.io/gh/onButtonUp/aITaskDispatcher.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/onButtonUp/aITaskDispatcher.jl)
 [![Coverage](https://coveralls.io/repos/github/onButtonUp/aITaskDispatcher.jl/badge.svg?branch=master)](https://coveralls.io/github/onButtonUp/aITaskDispatcher.jl?branch=master)
 
-This is definitely a demo version . . .
+This is definitely a demo version . . . 
+generated using Julia v1.5.1, GitKraken 7.3.0, VSCode 1.48.2
